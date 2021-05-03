@@ -1,11 +1,6 @@
-
-**Contents**
-
-[TOC]
-
-##Pokedex App
+## Pokedex App
 This app displays a list of Pokèmon with image and name.
-###Details
+### Details
 - Swift Version: 5
 - iOS Deployment Target: 13
 - SwiftUI
